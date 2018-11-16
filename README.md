@@ -1,1 +1,1 @@
-# detach-child-when-parent-destroy
+# 부모 오브젝트가 소멸 될 때 자식 오브젝트를 먼저 떼어내어 자식 오브젝트는 소멸되지 않도록 한다.  
